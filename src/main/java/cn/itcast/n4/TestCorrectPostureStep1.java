@@ -36,10 +36,10 @@ public class TestCorrectPostureStep1 {
         sleep(1);
         new Thread(() -> {
             // 这里能不能加 synchronized (room)？
-            synchronized (room) {
+//            synchronized (room) {
                 hasCigarette = true;
                 log.debug("烟到了噢！");
-            }
+//            }
         }, "送烟的").start();
     }
 
