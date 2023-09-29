@@ -9,5 +9,8 @@
         <module name="JUC_study" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JUC" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

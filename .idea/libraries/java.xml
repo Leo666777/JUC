@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_java7/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_java8/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_monitor/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_monitor/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_monitor/src/test/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_thirdpart/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_thirdpart/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_thirdpart/src/test/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/case_tomcat/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jcstress_ordering/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jcstress_ordering/target/generated-sources/annotations" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jmh_eliminate_locks/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jmh_eliminate_locks/target/generated-sources/annotations" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jmh_performance/src/main/java" />
+      <root url="file://$PROJECT_DIR$/资料-并发编程/资料-并发编程/concurrent/jmh_performance/target/generated-sources/annotations" />
+    </SOURCES>
+  </library>
+</component>
